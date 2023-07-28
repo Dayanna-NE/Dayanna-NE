@@ -10,9 +10,9 @@
 
 
 
-<h1 align="center">Hi :v:, I am Felipe Esteban Alejandro ⚓ </h1>
+<h1 align="center">Bienvenid@, Me llamo Dayanna Nuñez< </h1>
 <h3 align="center">I am a Web Developer, from Chile </h3>
-<h4 align="center">I'm :balance_scale: and 🏇 </h4>
+
 
 ### About Me:
 
