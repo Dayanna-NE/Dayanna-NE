@@ -13,7 +13,7 @@
 
 - ⌨️ Full Stack Developer
 - 💻 Technology
-- 👘 Japonés
+- 👘 日本
 <!-- - I'm currently learning more about:
     - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Microservices with Spring Boot
     - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
