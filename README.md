@@ -36,4 +36,8 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayhip-ti&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="DayannaNuñez" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayhip-ti&show_icons=true&locale=en&theme=tokyonight" alt="DayannaNuñez" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayhip-ti&theme=dark" alt="DayannaNuñez" /></p>
 
 
+![dayannafoot4](https://github.com/dayhip-ti/dayhip-ti/assets/121836811/c5d0c4da-522d-47b5-8dd3-d58df810fd8c)
+
+
+
 
