@@ -1,8 +1,7 @@
-![dayanna](https://github.com/dayhip-ti/dayhip-ti/assets/121836811/5870a801-20a1-4012-b547-6f1a895e33a2)
+
+![dayanna4](https://github.com/dayhip-ti/dayhip-ti/assets/121836811/c378c1a3-871c-42c0-8fb7-4d280fc377f8)
 
 
-<p align="left">
-</p>
 
 ### About Me:
 
