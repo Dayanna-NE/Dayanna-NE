@@ -34,10 +34,7 @@
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                height="40" margin-right="3px"/> </a> <!-- <a href="#" target="_blank"> <img
+               <!-- <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40"
                 height="40" margin-right="3px"/> </a><a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40"
