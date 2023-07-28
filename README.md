@@ -1,13 +1,8 @@
-<h1 align="center">Bienvenid@, Me llamo Dayanna Nuñez</h1>
-<h3 >Desarrolladora de software, apasionada por la resolución de problemas y la creación de soluciones innovadoras a través del código, me considero una eterna aprendiz en busca de nuevos desafíos y oportunidades para crecer profesionalmente.Disfruto trabajando en entornos colaborativos donde puedo combinar mis habilidades técnicas con mi capacidad para comunicarme de manera efectiva.</h3>
+![dayanna](https://github.com/dayhip-ti/dayhip-ti/assets/121836811/5870a801-20a1-4012-b547-6f1a895e33a2)
 
 
 <p align="left">
 </p>
-
-
-
-
 
 ### About Me:
 
