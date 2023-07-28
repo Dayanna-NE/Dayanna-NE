@@ -10,10 +10,6 @@
 
 
 
-<h1 align="center">Bienvenid@, Me llamo Dayanna Nuñez< </h1>
-<h3 align="center">I am a Web Developer, from Chile </h3>
-
-
 ### About Me:
 
 - ⌨️ Full Stack Developer
