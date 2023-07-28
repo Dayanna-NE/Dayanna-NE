@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenid@, Me llamo Dayanna Nuñez</h1>
-<h3 >Desarrolladora de software, apasionada por la resolución de problemas y la creación de soluciones innovadoras a través del código, me considero un eterno aprendiz en busca de nuevos desafíos y oportunidades para crecer profesionalmente.Disfruto trabajando en entornos colaborativos donde puedo combinar mis habilidades técnicas con mi capacidad para comunicarme de manera efectiva.</h3>
+<h3 >Desarrolladora de software, apasionada por la resolución de problemas y la creación de soluciones innovadoras a través del código, me considero una eterna aprendiz en busca de nuevos desafíos y oportunidades para crecer profesionalmente.Disfruto trabajando en entornos colaborativos donde puedo combinar mis habilidades técnicas con mi capacidad para comunicarme de manera efectiva.</h3>
 
 
 <p align="left">
