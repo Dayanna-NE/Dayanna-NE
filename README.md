@@ -1,5 +1,5 @@
 
-![dayanna4](https://github.com/dayhip-ti/dayhip-ti/assets/121836811/c378c1a3-871c-42c0-8fb7-4d280fc377f8)
+![dayanna](https://github.com/dayhip-ti/dayhip-ti/assets/121836811/7527d55c-a5ea-4eb7-9c0a-fffed8a5ed3b)
 
 
 
